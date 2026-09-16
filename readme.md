@@ -72,9 +72,9 @@ void loop() {
 
 # Output
 
-<img width="1254" height="974" alt="image" src="https://github.com/user-attachments/assets/07a1d6fa-b88b-4f96-ab76-14ba30115b88" />
+<img width="940" height="448" alt="image" src="https://github.com/user-attachments/assets/f0912d2c-9c26-432c-a5ec-c30eb7a07fa6" />
 
-<img width="1480" height="682" alt="image" src="https://github.com/user-attachments/assets/a70df3e0-7042-43d4-a3a1-4816d32881f8" />
+![Uploading ChatGPT Image Sep 16, 2026, 04_13_30 PM.png…]()
 
 # Result
 
