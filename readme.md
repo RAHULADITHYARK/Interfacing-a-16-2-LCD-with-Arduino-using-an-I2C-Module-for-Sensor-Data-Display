@@ -74,7 +74,8 @@ void loop() {
 
 <img width="940" height="448" alt="image" src="https://github.com/user-attachments/assets/f0912d2c-9c26-432c-a5ec-c30eb7a07fa6" />
 
-![Uploading ChatGPT Image Sep 16, 2026, 04_13_30 PM.png…]()
+<img width="1485" height="1059" alt="ChatGPT Image Sep 16, 2026, 04_13_30 PM" src="https://github.com/user-attachments/assets/779a1c04-a914-4b97-bc15-c258fb0908dc" />
+
 
 # Result
 
